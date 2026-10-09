@@ -1,0 +1,9 @@
+{
+  "id": "mediapager.metadata.tmdb",
+  "name": "TMDB",
+  "description": "The Movie Database metadata and search provider for movies and TV shows.",
+  "author": "Nobugsgiven",
+  "types": "search, metadata",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0"
+}
